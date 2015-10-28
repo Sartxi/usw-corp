@@ -1,0 +1,308 @@
+2015-02-25 02:53:56 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-02-25 02:54:02 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+PagesController::display() - APP/Controller/PagesController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-02-26 18:50:45 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+PagesController::display() - APP/Controller/PagesController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-02-26 18:50:55 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+PagesController::display() - APP/Controller/PagesController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-02-26 18:50:58 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+PagesController::display() - APP/Controller/PagesController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-02-26 18:51:08 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+PagesController::display() - APP/Controller/PagesController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-02-26 18:51:13 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-02-26 18:51:18 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-02-26 18:51:33 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+PagesController::display() - APP/Controller/PagesController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-02-26 20:58:13 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+PagesController::display() - APP/Controller/PagesController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-02-26 21:02:05 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+PagesController::display() - APP/Controller/PagesController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-02-28 00:26:08 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+PagesController::display() - APP/Controller/PagesController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-03-08 19:01:44 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+PagesController::display() - APP/Controller/PagesController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-03-08 19:01:46 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+PagesController::display() - APP/Controller/PagesController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-03-08 19:02:20 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+PagesController::display() - APP/Controller/PagesController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-03-08 19:05:21 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+PagesController::display() - APP/Controller/PagesController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-03-08 19:05:24 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-03-08 19:19:35 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+PagesController::display() - APP/Controller/PagesController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-03-08 19:19:37 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+PagesController::display() - APP/Controller/PagesController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-03-08 19:21:18 Notice: Notice (1024): Element Not Found: Elements/modals.ctp in [/Users/SeanArchibeque/Sites/utahshrinkwrap/lib/Cake/View/View.php, line 425]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 425
+include - APP/View/Layouts/default.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 961
+View::_render() - CORE/Cake/View/View.php, line 923
+View::renderLayout() - CORE/Cake/View/View.php, line 546
+View::render() - CORE/Cake/View/View.php, line 481
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+PagesController::display() - APP/Controller/PagesController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
