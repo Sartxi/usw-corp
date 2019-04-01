@@ -16,7 +16,7 @@
 						</div>
 						<div class="col-md-12 addressdivide"><hr></div>
 						<div class="col-md-1"><span class="glyphicon glyphicon-phone-alt"></span></div>
-						<div class="col-md-11">(801) 557-0863</div>
+						<div class="col-md-11">(801) 573-5597</div>
 						<div class="col-md-12 addressdivide"><hr></div>
 						<div class="col-md-1"><span class="glyphicon glyphicon-envelope"></span></div>
 						<div class="col-md-11"><a href="mailto: utahshrinkwrap@gmail.com">utahshrinkwrap@gmail.com</a></div>
