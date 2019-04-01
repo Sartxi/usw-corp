@@ -5,7 +5,7 @@
 
 
 				<div class="navbar-header">
-					<h3 class="pull-left visible-xs" style="margin: 12px; color: #b90104;">801-557-0863</h3>
+					<h3 class="pull-left visible-xs" style="margin: 12px; color: #b90104;">801-573-5597</h3>
 					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mainnav">
 						<span class="sr-only">Toggle navigation</span>
 						<span class="icon-bar"></span>

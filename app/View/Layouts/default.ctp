@@ -37,7 +37,7 @@
 					<div class="col-md-7 hidden-xs">
 						<div class="row">
 							<div class="col-md-12">
-								<h2 class="pull-right">801-557-0863</h2>
+								<h2 class="pull-right">801-573-5597</h2>
 								<a href="/contact" class="btn btn-primary btn-sm pull-right head-req">Request a Quote</a>
 							</div>
 							<div class="col-md-12 social-head">
@@ -64,7 +64,7 @@
 				<div class="row">
 					<div class="col-md-4" style="text-align:center;">
 						<a href="/"><img src="/img/logo.png" class="img-responsive img-rounded footerlogo center-block"/></a>
-						<h3>801-557-0863</h3>
+						<h3>801-573-5597</h3>
 						<br />
 						<p class="text-center">&copy; 2015 Utah Shrink Wrap Services LLC</p>
 					</div>
