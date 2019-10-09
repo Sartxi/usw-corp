@@ -10,9 +10,7 @@
 					<div class="row">
 						<div class="col-md-1"><span class="glyphicon glyphicon-map-marker"></div>
 						<div class="col-md-11">
-							1745 Milestone Dr<br />Salt Lake City, UT 84104 USA<br /><br />
-							<strong>Mailing:</strong><br>PO box 26222<br />Salt Lake City, UT 84126<br /><br />
-							<strong>Office:</strong><br>2216 SMR, Fairview Utah 84629
+							3731 west South Jordan Parkway suite 102<br />South Jordan, Utah 84009<br />
 						</div>
 						<div class="col-md-12 addressdivide"><hr></div>
 						<div class="col-md-1"><span class="glyphicon glyphicon-phone-alt"></span></div>
@@ -37,7 +35,7 @@
 					</div>
 				</div>
 				<div class="col-md-6">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d755.8271884352812!2d-111.96418810000002!3d40.73323120000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8752f35b52e2c9a7%3A0x7adaa05e570a5e6f!2s1745+Milestone+Dr%2C+Salt+Lake+City%2C+UT+84104!5e0!3m2!1sen!2sus!4v1423453423197" width="350" height="300" frameborder="0" style="border:0"></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3631.066640580254!2d-111.98257248424665!3d40.56033437934851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8752858a6c417c27%3A0x3e0550104d872939!2s3731%20S%20Jordan%20Pkwy%20%23102%2C%20South%20Jordan%2C%20UT%2084095!5e1!3m2!1sen!2sus!4v1570660949850!5m2!1sen!2sus" width="350" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 				</div>
 			</div>
 		</div>
